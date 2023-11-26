@@ -64,7 +64,7 @@ Developed by: JEECIKASRINA M
 RegisterNumber:  23013947
 
 ## CODE:
-
+```
 module lg(a,b,y1,y2,y3,y4,y5,y6,y7,y8);
 input a,b;
 output y1,y2,y3,y4,y5,y6,y7,y8;
@@ -77,7 +77,7 @@ nor(y6,a,b);
 xor(y7,a,b);
 xnor(y8,a,b);
 endmodule
-
+```
 ## TRUTH TABLE:
 
 ![image](https://github.com/Jeecikasrina23013947/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/148515300/90b6fa8d-645b-4882-b5dd-742f4266ad49)
